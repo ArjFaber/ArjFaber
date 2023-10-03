@@ -1,3 +1,4 @@
+##Welcome
 👋 Welcome to my GitHub Profile! I'm Arjan Faber.
 
 🚀 Master of Science in Data Science, Technology, and Innovation @ University of Edinburgh
@@ -14,6 +15,13 @@
 
 
 #DataScience #AI #MachineLearning #HighPerformanceComputing #Econometrics 
+
+##Languages
+- C/C++
+- C#
+- Python
+- ReactJS
+- MATLAB
 
 
 
